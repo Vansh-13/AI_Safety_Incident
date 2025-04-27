@@ -12,7 +12,7 @@ This is a simple interactive dashboard that displays AI safety incidents. Users 
 
 ## How to Run
 
-1. Clone the repository.
+1. Clone the repository. (https://github.com/Vansh-13/AI_Safety_Incident)
 2. Run `npm install` to install dependencies.
 3. Run `npm start` to start the development server.
 4. Open [http://localhost:3000](http://localhost:3000) in your browser.
