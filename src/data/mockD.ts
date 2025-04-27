@@ -1,4 +1,4 @@
-// mockD.ts
+
 const mockIncidents = [
     {
       id: 1,
